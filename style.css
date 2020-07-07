@@ -20,3 +20,36 @@ border: none;
     cursor: pointer;
 
 }
+.card{
+    border-radius: 3em;
+}
+
+.smartphone img{
+    height: 45%;
+    width: 65%;
+}
+.see-all{
+    color:#F47C00;
+}
+.categories{
+    margin-top: 100px;
+    border-bottom:6px solid #F47C00;
+    margin-bottom: 100px;
+    padding-bottom: 8px;
+    border-radius: 5px;
+
+}
+.image {
+    border-radius: 10px;
+    
+    width: 150px;
+    padding: 10px;
+}
+footer{
+    color: gray;
+    text-align: center;
+}
+.hover:hover{
+    background-image: linear-gradient(to bottom, #FF589B  0%, #FF136F 100% );
+    font-size: 25px;
+}
